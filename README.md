@@ -1,2 +1,3 @@
 # Autonomous-Drone-for-Warehouse
-I am a computer science student and this is my semester 5 project under CS3283 - Embedded Systems Project module. Autonomous drone can use to manage inventory in a warehouse. 
+Drones can be designed to perform complex tasks in warehouses, such as inventory management, security, and delivery of tools and parts. These automated drones specifically designed to operate in warehouses are called warehouse drones.
+Warehouse drones excel at automatically performing inventory-related tasks because of their ability to count and record stock using a barcode scanner. A drone can fly around and scan items, which is then compared to the inventory data in the warehouse management system. New records are added, old ones are deleted, and a new inventory list is created.
