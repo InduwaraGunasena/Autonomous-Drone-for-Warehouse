@@ -11,7 +11,9 @@ Warehouse drones excel at automatically performing inventory-related tasks becau
 # How Warehouse Drones Work
 
 # What Systems Does a Drone Need?
-
+  1. Computer vision for follow barcodes, QR codes, ... etc
+  2. Obstacle avoidance with self flying system
+  3. warehouse inventory management system software
 # What can warehouse drones do?
 
 
